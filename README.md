@@ -36,29 +36,12 @@ If you're planning to run a GitHub Copilot workshop, please review the [workshop
 In this project you will find: 
 
 * a `main.py` file with no contents
-* a devcontainer that installs CodeTour and GitHub Copilot when the Codespace is created (If you want to use Codespaces)
 * an `.instructions` folder all the instructions for this workshop.
 * an `assets` folder containing images used in this workshop documentation.
-* a `.tours` folder that includes the CodeTour file if you wish to use it.
 * a `notebooks` folder that includes the Jupyter Notebook file if you wish to it.
-
 
 
 ## FAQ 
 
 - **How do I get a GitHub Copilot license?**
-  - You can request a trial license from your GitHub Sales representative or via Copilot for Individuals or Business licenses.
-- **How do I get a GitHub Codespaces license?**
-    - Codespaces is included with GitHub Enterprise Cloud, GitHub Enterprise Server, and GitHub Free. You can check under your [billing settings page](https://github.com/settings/billing).
-- **I am having trouble activating GitHub Copilot after I load the plugin, what should I do?**
-    - This could be because you launched your Codespace before you activated GitHub Copilot or accepted the invitation to the trial org. Please try to reload your Codespace and try again.
-
-## Acknowledgements
-
-A special thanks to the following awesome Hubbers who have contributed in many different ways to our workshops. 
-[blackgirlbytes](https://github.com/blackgirlbytes), [pierluigi](https://github.com/pierluigi), [yuichielectric](https://github.com/yuichielectric), [dchomh](https://github.com/dchomh), [nolecram](https://github.com/nolecram), [rsymo](https://github.com/rsymo), [damovisa](https://github.com/damovisa) and anyone else I've inadvertently missed.
-
-Enjoy your workshop!
-[anthonyborton](https://github.com/anthonyborton)
-
-_v1.0 Released May, 2023_
+  - You can request a trial license from your GitHub Workshop facilitator by providing your personal GitHub handle.
