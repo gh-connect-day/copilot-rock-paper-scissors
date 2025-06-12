@@ -34,9 +34,3 @@ In this project you will find:
 * an `.instructions` folder all the instructions for this workshop.
 * an `assets` folder containing images used in this workshop documentation.
 * a `notebooks` folder that includes the Jupyter Notebook file if you wish to it.
-
-
-## FAQ
-
-- **How do I get a GitHub Copilot license?**
-  - You can request a trial license from your GitHub Workshop facilitator by providing your personal GitHub handle.
